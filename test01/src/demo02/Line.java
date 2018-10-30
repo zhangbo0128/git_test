@@ -26,4 +26,8 @@ public class Line {
     public void setMoney(int money) {
         this.money = money;
     }
+
+    public static void main(String[] args) {
+        System.out.println("ddddddddddddddddd");
+    }
 }
